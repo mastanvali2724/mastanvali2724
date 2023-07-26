@@ -7,6 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=eminent02&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=mastanvali2724&style=flat-square&color=blue" alt=""/>
 <a href = "http://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&background=000000" </a>
 
