@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**mastanvali2724/mastanvali2724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mastanvali-shaik%22%3E
@@ -22,5 +7,4 @@ Here are some ideas to get you started:
 </div>
 <img src="https://komarev.com/ghpvc/?username=mastanvali2724&style=flat-square&color=blue" alt=""/>
 <a href = "http://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&background=000000" </a>
-
 
